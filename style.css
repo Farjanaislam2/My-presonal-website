@@ -1,0 +1,81 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.colorful {
+    color: purple;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+.mission-2022 {
+    display: flex;
+
+
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+
+}
+
+.button {
+    background-color: rgb(250, 72, 7);
+    text-decoration: none;
+    font-weight: 400;
+    background-image: linear-gradient(orange, coral);
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: white;
+}
+
+.second-part {
+    display: flex;
+    margin: 50px;
+
+}
+
+.mission {
+    color: brown;
+}
+
+#part1 {
+    background-color: rgba(13, 241, 165, 0.144);
+    margin: 10px 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+
+}
+
+#part2 {
+    background-color: rgba(220, 20, 60, 0.288);
+    margin: 10px 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+
+
+}
+
+#part3 {
+    background-color: rgba(167, 240, 23, 0.301);
+    margin: 10px 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+
+
+}
